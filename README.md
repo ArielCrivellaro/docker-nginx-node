@@ -11,12 +11,12 @@ O retorno da aplicação node.js para o nginx deverá ser:
 **Full Cycle Rocks!**,
 **Lista de nomes cadastrada no banco de dados.**
 
-**Para executar utilizar o comando**
+### Para executar utilizar o comando
 
 ```
 docker-compose up -d
 ```
 
-**Para acessar utilizar o link abaixo**
+### Para acessar utilizar o link abaixo
 
 [http://localhost:8080/](http://localhost:8080/)
